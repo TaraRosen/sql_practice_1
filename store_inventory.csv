@@ -1,0 +1,16 @@
+id,product,price,inventory,location
+1,"iams cat food dry",14.99,23,1
+2,"fancy feast cat food dry",7.99,20,1
+3,"iams cat food wet",2.99,53,1
+4,"fancy feast cat food wet",1.99,37,1
+5,"world's best cat litter",29.99,17,4
+6,"iams dog food dry",17.99,11,2
+7,"purina dog food dry",22.99,4,2
+8,"iams dog food wet",3.99,33,2
+9,"purina dog food wet",2.99,19,2
+10,"wee wee pads",12.99,12,4
+11,"cat toy mice",0.99,53,3
+12,"cat nip",10.99,7,3
+13,"dog stuffie",5.99,13,3
+14,"dog leash",7.99,22,3
+15,harness,7.99,16,3
